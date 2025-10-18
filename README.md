@@ -19,8 +19,8 @@ This program randomly picks two words from text files (`.txt`) you provide and c
 ## 🗂️ Project Structure
 
 📁 Restaurant-Name-Generator
-│
 
+│
 ├── Restaurant Name Generator.py # Main Python script
 
 ├── Cafe.txt # List of cafe-related words/names
